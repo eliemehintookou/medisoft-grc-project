@@ -1,0 +1,97 @@
+matricule;prenom;nom;email;service;role;poste;type_contrat;date_entree;date_sortie;fin_mission;role_precedent;date_mobilite;absence_longue
+E001;Victor;Meyer;victor.meyer@medisoft.example;Direction;DIR;Direction;Salarié;2025-06-16;;;;;Non
+E002;Alexis;Michel;alexis.michel@medisoft.example;Direction;DIR;Direction;Salarié;2021-01-19;;;;;Non
+E003;Olivier;Colin;olivier.colin@medisoft.example;R&D;CTO;Directeur technique;Salarié;2024-04-15;;;;;Non
+E004;Lou;Barbier;lou.barbier@medisoft.example;R&D;DEV-LEAD;Lead développeur;Salarié;2020-07-20;;;;;Non
+E005;Isabelle;Dupuis;isabelle.dupuis@medisoft.example;R&D;DEV-LEAD;Lead développeur;Salarié;2020-08-25;;;;;Non
+E006;Nicolas;Fabre;nicolas.fabre@medisoft.example;R&D;DEV-LEAD;Lead développeur;Salarié;2021-04-15;;;;;Non
+E007;Yanis;Martin;yanis.martin@medisoft.example;R&D;DEV;Développeur;Salarié;2021-11-05;;;;;Non
+E008;Raphaël;Muller;raphael.muller@medisoft.example;R&D;DEV;Développeur;Salarié;2025-11-20;;;;;Non
+E009;Salomé;Bernard;salome.bernard@medisoft.example;R&D;DEV;Développeur;Salarié;2025-09-10;;;;;Non
+E010;Fabien;Perrin;fabien.perrin@medisoft.example;R&D;DEV;Développeur;Salarié;2021-04-17;;;;;Non
+E011;Kylian;Faure;kylian.faure@medisoft.example;R&D;DEV;Développeur;Salarié;2024-06-07;;;;;Non
+E012;Elsa;Chevalier;elsa.chevalier@medisoft.example;R&D;DEV;Développeur;Salarié;2022-11-22;;;;;Non
+E013;Marion;Moreau;marion.moreau@medisoft.example;R&D;DEV;Développeur;Salarié;2021-01-12;;;;;Non
+E014;Sarah;Blanchard;sarah.blanchard@medisoft.example;R&D;DEV;Développeur;Salarié;2022-12-22;;;;;Non
+E015;Romane;Muller;romane.muller@medisoft.example;R&D;DEV;Développeur;Salarié;2020-10-04;;;;;Non
+E016;Théo;Renard;theo.renard@medisoft.example;R&D;DEV;Développeur;Salarié;2021-08-30;;;;;Non
+E017;Léa;Bourgeois;lea.bourgeois@medisoft.example;R&D;DEV;Développeur;Salarié;2023-04-30;;;;;Non
+E018;Rayan;Gautier;rayan.gautier@medisoft.example;R&D;DEV;Développeur;Salarié;2022-08-28;;;;;Non
+E019;Sarah;Sanchez;sarah.sanchez@medisoft.example;R&D;DEV;Développeur;Salarié;2022-01-21;;;;;Non
+E020;Awa;Garcia;awa.garcia@medisoft.example;R&D;DEV;Développeur;Salarié;2020-07-28;;;;;Non
+E021;Simon;Leclercq;simon.leclercq@medisoft.example;R&D;DEV;Développeur;Salarié;2022-01-08;;;;;Non
+E022;Kylian;Jean;kylian.jean@medisoft.example;R&D;DEV;Développeur;Salarié;2021-04-14;;;;;Non
+E023;Lou;Gillet;lou.gillet@medisoft.example;R&D;DEV;Développeur;Salarié;2023-11-22;;;;;Non
+E024;Yasmine;Meunier;yasmine.meunier@medisoft.example;R&D;DEV;Développeur;Salarié;2021-06-02;;;;;Non
+E025;Héloïse;Francois;heloise.francois@medisoft.example;R&D;DEV;Développeur;Salarié;2026-07-05;;;;;Non
+E026;Nathan;Bourgeois;nathan.bourgeois@medisoft.example;R&D;DEV;Développeur;Salarié;2025-05-06;;;;;Non
+E027;Aurélie;Michel;aurelie.michel@medisoft.example;R&D;DEV;Développeur;Salarié;2020-12-03;;;;;Non
+E028;Mehdi;Vincent;mehdi.vincent@medisoft.example;R&D;DEV;Développeur;Salarié;2021-12-23;;;;;Non
+E029;Julie;David;julie.david@medisoft.example;R&D;DEV;Développeur;Salarié;2021-05-21;;;;;Non
+E030;Fabien;Roger;fabien.roger@medisoft.example;R&D;DEV;Développeur;Salarié;2021-09-01;;;;;Non
+E031;Sacha;Blanchard;sacha.blanchard@medisoft.example;R&D;DEV;Développeur;Salarié;2020-09-03;;;;;Non
+E032;Aurélie;Nicolas;aurelie.nicolas@medisoft.example;R&D;DEV;Développeur;Salarié;2022-04-14;;;;;Non
+E033;Alexis;Meyer;alexis.meyer@medisoft.example;R&D;DEV;Développeur;Salarié;2020-08-23;;;;;Non
+E034;Aya;Denis;aya.denis@medisoft.example;R&D;DEV;Développeur;Alternant;2021-06-03;;;;;Non
+E035;Romane;Blanc;romane.blanc@medisoft.example;R&D;DEV;Développeur;Alternant;2024-07-09;;;;;Non
+E036;Louis;Fournier;louis.fournier@medisoft.example;R&D;DEV;Développeur;Stagiaire;2026-09-09;;;;;Non
+E037;Bastien;Roy;bastien.roy@medisoft.example;Ops;OPS-LEAD;Responsable Ops;Salarié;2021-08-27;;;;;Non
+E038;Clara;Rousseau;clara.rousseau@medisoft.example;Ops;OPS;Ingénieur Ops;Salarié;2022-10-03;;;;;Non
+E039;Charlotte;Lucas;charlotte.lucas@medisoft.example;Ops;OPS;Ingénieur Ops;Salarié;2021-05-07;;;;;Non
+E040;Agathe;Blanchard;agathe.blanchard@medisoft.example;Ops;OPS;Ingénieur Ops;Salarié;2021-03-20;;;;;Non
+E041;Romane;Perrin;romane.perrin@medisoft.example;Ops;OPS;Ingénieur Ops;Salarié;2026-06-01;;;;;Non
+E042;Arthur;Lemaire;arthur.lemaire@medisoft.example;Ops;OPS;Ingénieur Ops;Salarié;2021-08-29;;;;;Non
+E043;Eva;Duval;eva.duval@medisoft.example;Support;SUP-N1;Support niveau 1;Salarié;2021-01-05;;;;;Oui
+E044;Axel;Picard;axel.picard@medisoft.example;Support;SUP-N1;Support niveau 1;Salarié;2024-09-27;;;;;Non
+E045;Jules;Arnaud;jules.arnaud@medisoft.example;Support;SUP-N1;Support niveau 1;Salarié;2021-06-02;;;;;Non
+E046;Awa;Fontaine;awa.fontaine@medisoft.example;Support;SUP-N1;Support niveau 1;Salarié;2023-10-21;;;;;Non
+E047;Ethan;Philippe;ethan.philippe@medisoft.example;Support;SUP-N1;Support niveau 1;Salarié;2025-09-16;;;;;Non
+E048;Théo;Duval;theo.duval@medisoft.example;Support;SUP-N1;Support niveau 1;Salarié;2022-03-07;;;;;Non
+E049;Sarah;Martin;sarah.martin@medisoft.example;Support;SUP-N1;Support niveau 1;Salarié;2026-08-20;;;;;Non
+E050;Kevin;Marchand;kevin.marchand@medisoft.example;Support;SUP-N1;Support niveau 1;Salarié;2021-09-24;;;;;Non
+E051;Damien;Dupont;damien.dupont@medisoft.example;Support;SUP-N2;Support niveau 2;Salarié;2025-11-10;;;;;Non
+E052;Jade;Colin;jade.colin@medisoft.example;Support;SUP-N2;Support niveau 2;Salarié;2024-01-05;;;;;Non
+E053;Nicolas;Marchand;nicolas.marchand@medisoft.example;Support;SUP-N2;Support niveau 2;Salarié;2026-04-17;;;;;Non
+E054;Aurélie;Leclercq;aurelie.leclercq@medisoft.example;Support;SUP-N2;Support niveau 2;Salarié;2023-10-13;;;;;Non
+E055;Alice;Martin;alice.martin@medisoft.example;Support;SUP-N2;Support niveau 2;Salarié;2022-10-14;;;;;Non
+E056;Aurélie;Brun;aurelie.brun@medisoft.example;Support;SUP-N2;Support niveau 2;Salarié;2023-04-12;;;;;Non
+E057;Loïc;Lemoine;loic.lemoine@medisoft.example;Commercial;COM;Commercial;Salarié;2021-04-10;;;;;Non
+E058;Ambre;Francois;ambre.francois@medisoft.example;Commercial;COM;Commercial;Salarié;2025-04-12;;;;;Non
+E059;Céline;Bertrand;celine.bertrand@medisoft.example;Commercial;COM;Commercial;Salarié;2021-06-27;;;;;Non
+E060;Romane;Simon;romane.simon@medisoft.example;Commercial;COM;Commercial;Salarié;2021-02-17;;;;;Non
+E061;Aurélie;Morel;aurelie.morel@medisoft.example;Commercial;COM;Commercial;Salarié;2022-02-08;;;;;Non
+E062;Céline;Nicolas;celine.nicolas@medisoft.example;Commercial;COM;Commercial;Salarié;2025-04-10;;;;;Non
+E063;Martin;Robin;martin.robin@medisoft.example;Commercial;COM;Commercial;Salarié;2021-02-05;;;;;Non
+E064;Bastien;Dupont;bastien.dupont@medisoft.example;Commercial;COM;Commercial;Salarié;2025-02-15;;;;;Non
+E065;Emma;Michel;emma.michel@medisoft.example;Commercial;COM;Commercial;Salarié;2022-07-29;;;;;Non
+E066;Camille;Petit;camille.petit@medisoft.example;Commercial;COM;Commercial;Salarié;2022-06-05;;;;;Non
+E067;Alexis;Dumont;alexis.dumont@medisoft.example;Commercial;COM;Commercial;Salarié;2022-11-25;;;;;Non
+E068;Léa;Lucas;lea.lucas@medisoft.example;Sécurité;RSSI;RSSI;Salarié;2026-07-03;;;;;Non
+E069;Océane;Giraud;oceane.giraud@medisoft.example;Juridique;DPO;Délégué à la protection des données;Salarié;2021-06-15;;;;;Non
+E070;Salomé;Morin;salome.morin@medisoft.example;RH;RH;Ressources humaines;Salarié;2023-05-22;;;;;Non
+E071;Awa;Gautier;awa.gautier@medisoft.example;RH;RH;Ressources humaines;Salarié;2025-06-06;;;;;Non
+E072;Alice;Dumas;alice.dumas@medisoft.example;RH;RH;Ressources humaines;Salarié;2024-11-16;;;;;Non
+E073;Paul;Denis;paul.denis@medisoft.example;Finance;FIN;Finance;Salarié;2020-12-18;;;;;Non
+E074;Timéo;Brunet;timeo.brunet@medisoft.example;Finance;FIN;Finance;Salarié;2023-01-08;;;;;Non
+E075;Fabien;Bourgeois;fabien.bourgeois@medisoft.example;Finance;FIN;Finance;Salarié;2024-03-05;;;;;Non
+E076;Florian;Sanchez;florian.sanchez@medisoft.example;Finance;FIN;Finance;Salarié;2026-01-05;;;;;Non
+E077;Clara;Renard;clara.renard@medisoft.example;Juridique;JUR;Juridique;Salarié;2026-05-30;;;;;Non
+E078;Chloé;Renard;chloe.renard@medisoft.example;Juridique;JUR;Juridique;Salarié;2024-11-05;;;;;Non
+E079;Nathan;Duval;nathan.duval@medisoft.example;Marketing;MKT;Marketing;Salarié;2020-09-06;;;;;Non
+E080;Fatou;Renaud;fatou.renaud@medisoft.example;Marketing;MKT;Marketing;Salarié;2024-09-04;;;;;Non
+E081;Gabriel;Renard;gabriel.renard@medisoft.example;Marketing;MKT;Marketing;Salarié;2026-07-25;;;;;Non
+E082;Anna;Meunier;anna.meunier@medisoft.example;Marketing;MKT;Marketing;Salarié;2020-11-06;;;;;Non
+E083;Tom;Rolland;tom.rolland@medisoft.example;Marketing;MKT;Marketing;Salarié;2025-03-31;;;;;Non
+E084;Zoé;Robin;zoe.robin@medisoft.example;R&D;DEV;Développeur;Salarié;2022-03-01;;;OPS;2026-07-01;Non
+E085;Mathis;Boyer;mathis.boyer@medisoft.example;Commercial;COM;Commercial;Salarié;2021-09-15;;;SUP-N2;2026-09-01;Non
+E086;Quentin;Nguyen;quentin.nguyen@medisoft.example;R&D;DEV;Développeur;Salarié;2023-01-09;2026-09-30;;;;Non
+E087;Adam;Robin;adam.robin@medisoft.example;Commercial;COM;Commercial;Salarié;2024-05-02;2026-10-31;;;;Non
+E088;Margaux;Lefevre;margaux.lefevre@medisoft.example;Ops;OPS;Ingénieur Ops;Salarié;2021-11-02;2026-08-14;;;;Non
+E089;Baptiste;Andre;baptiste.andre@medisoft.example;Support;SUP-N1;Support niveau 1;Salarié;2024-02-01;2026-06-30;;;;Non
+E090;Eva;Gautier;eva.gautier@medisoft.example;R&D;DEV;Développeur;Salarié;2022-06-13;2026-03-31;;;;Non
+E091;Awa;Dupuis;awa.dupuis@medisoft.example;Marketing;MKT;Marketing;Salarié;2025-01-06;2026-11-30;;;;Non
+P092;Lou;Muller;lou.muller@medisoft.example;R&D;PRESTA-DEV;Prestataire développement;Prestataire;2026-02-01;;2027-03-31;;;Non
+P093;Charlotte;Andre;charlotte.andre@medisoft.example;Ops;PRESTA-OPS;Prestataire Ops;Prestataire;2026-10-01;;2027-01-31;;;Non
+P094;Océane;Meunier;oceane.meunier@medisoft.example;R&D;PRESTA-DEV;Prestataire développement;Prestataire;2025-06-01;;2025-12-19;;;Non
+P095;Fatou;Lemaire;fatou.lemaire@medisoft.example;R&D;PRESTA-DEV;Prestataire développement;Prestataire;2025-11-03;;2026-04-30;;;Non
+P096;Jade;Jean;jade.jean@medisoft.example;R&D;PRESTA-DEV;Prestataire développement;Prestataire;2026-01-05;;2026-06-30;;;Non
